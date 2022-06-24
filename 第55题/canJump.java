@@ -40,3 +40,4 @@ class canJumpTest{
         System.out.println(canJump.canJump(new int[]{2,0,0}));
     }
 }
+
