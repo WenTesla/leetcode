@@ -65,3 +65,4 @@ class uniquePathsTest{
         System.out.println(test.uniquePaths(3,7));//1276
     }
 }
+
