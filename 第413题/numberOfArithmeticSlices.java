@@ -43,6 +43,7 @@ public class numberOfArithmeticSlices {
         return ans;
     }
 }
+
 class testnum{
     public static void main(String[] args) {
         numberOfArithmeticSlices numberOfArithmeticSlices = new numberOfArithmeticSlices();
